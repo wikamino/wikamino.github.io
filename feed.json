@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Wikamino",
+    "description": "",
+    "home_page_url": "https://wikamino.github.io",
+    "feed_url": "https://wikamino.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Wikamino"
+    },
+    "items": [
+        {
+            "id": "https://wikamino.github.io/prueba-camino.html",
+            "url": "https://wikamino.github.io/prueba-camino.html",
+            "title": "Prueba Camino",
+            "summary": "Prueba Wikamino",
+            "content_html": "<p>Prueba Wikamino</p>",
+            "author": {
+                "name": "Wikamino"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-17T19:01:00+02:00",
+            "date_modified": "2026-05-17T19:01:00+02:00"
+        }
+    ]
+}

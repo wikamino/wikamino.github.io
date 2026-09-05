@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Wikamino</title>
+    <link href="https://wikamino.github.io/feed.xml" rel="self" />
+    <link href="https://wikamino.github.io" />
+    <updated>2026-05-17T19:01:00+02:00</updated>
+    <author>
+        <name>Wikamino</name>
+    </author>
+    <id>https://wikamino.github.io</id>
+
+    <entry>
+        <title>Prueba Camino</title>
+        <author>
+            <name>Wikamino</name>
+        </author>
+        <link href="https://wikamino.github.io/prueba-camino.html"/>
+        <id>https://wikamino.github.io/prueba-camino.html</id>
+
+        <updated>2026-05-17T19:01:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Prueba Wikamino
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Prueba Wikamino</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
